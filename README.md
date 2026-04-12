@@ -1,4 +1,4 @@
-# gear-generator
+# Gmsh Gear Generator Script
 
 Download the script here: [`Download Link`](https://github.com/EvokeMadness/gear-generator/releases/latest/download/gear-generator.zip)
 
